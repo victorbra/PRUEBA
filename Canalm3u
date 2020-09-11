@@ -1,4 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 ,caracolhd
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/1552.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore) https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 ALF http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/271
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 Avatar: la leyenda de Aang http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/272
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 Avatar: la leyenda de Korra http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/273
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 Ben 10 http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/274
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 Ben 10: Omniverse http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/275
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7 Bewitched Hechizada http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/276
